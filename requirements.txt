@@ -1,0 +1,6 @@
+sqlalchemy~=2.0.37
+fastapi~=0.115.6
+uvicorn[standard]
+sqlalchemy-stubs
+starlette~=0.41.3
+pydantic~=2.10.5
